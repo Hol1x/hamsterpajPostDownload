@@ -1,0 +1,15 @@
+c:\users\marcus\documents\visual studio 2015\Projects\hamsterpajPostDownload\hamsterpajPostDownload\bin\Debug\hamsterpajPostDownload.exe.config
+c:\users\marcus\documents\visual studio 2015\Projects\hamsterpajPostDownload\hamsterpajPostDownload\bin\Debug\hamsterpajPostDownload.exe
+c:\users\marcus\documents\visual studio 2015\Projects\hamsterpajPostDownload\hamsterpajPostDownload\bin\Debug\hamsterpajPostDownload.pdb
+c:\users\marcus\documents\visual studio 2015\Projects\hamsterpajPostDownload\hamsterpajPostDownload\bin\Debug\HtmlAgilityPack.dll
+c:\users\marcus\documents\visual studio 2015\Projects\hamsterpajPostDownload\hamsterpajPostDownload\bin\Debug\HtmlAgilityPack.pdb
+c:\users\marcus\documents\visual studio 2015\Projects\hamsterpajPostDownload\hamsterpajPostDownload\bin\Debug\HtmlAgilityPack.xml
+c:\users\marcus\documents\visual studio 2015\Projects\hamsterpajPostDownload\hamsterpajPostDownload\obj\Debug\hamsterpajPostDownload.csprojResolveAssemblyReference.cache
+c:\users\marcus\documents\visual studio 2015\Projects\hamsterpajPostDownload\hamsterpajPostDownload\obj\Debug\hamsterpajPostDownload.Form1.resources
+c:\users\marcus\documents\visual studio 2015\Projects\hamsterpajPostDownload\hamsterpajPostDownload\obj\Debug\hamsterpajPostDownload.Properties.Resources.resources
+c:\users\marcus\documents\visual studio 2015\Projects\hamsterpajPostDownload\hamsterpajPostDownload\obj\Debug\hamsterpajPostDownload.csproj.GenerateResource.Cache
+c:\users\marcus\documents\visual studio 2015\Projects\hamsterpajPostDownload\hamsterpajPostDownload\obj\Debug\hamsterpajPostDownload.exe
+c:\users\marcus\documents\visual studio 2015\Projects\hamsterpajPostDownload\hamsterpajPostDownload\obj\Debug\hamsterpajPostDownload.pdb
+c:\users\marcus\documents\visual studio 2015\Projects\hamsterpajPostDownload\hamsterpajPostDownload\bin\Debug\TS3QueryLib.Core.Framework.dll
+c:\users\marcus\documents\visual studio 2015\Projects\hamsterpajPostDownload\hamsterpajPostDownload\bin\Debug\TS3QueryLib.Core.Framework.pdb
+c:\users\marcus\documents\visual studio 2015\Projects\hamsterpajPostDownload\hamsterpajPostDownload\bin\Debug\TS3QueryLib.Core.Framework.xml
